@@ -1,0 +1,12 @@
+.form-wrapper{
+    width: 60%;
+    margin: 50px auto;
+    font-size: 22px;
+}
+.todo{
+    box-shadow: 0 2px 4px purple;
+    border-radius: 8px;
+    padding: 20px 10px;
+    width: 100%;
+    margin-bottom: 20px;
+}
